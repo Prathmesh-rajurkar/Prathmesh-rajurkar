@@ -25,15 +25,16 @@
 ## What I am Good at 🧑‍💻 :
 
 <br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
+<div>
+<img src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" style="height:70px;">
+<img src="https://icon2.cleanpng.com/20180917/rgp/kisspng-javascript-logo-product-design-brand-1713939908433.webp" style="height:70px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSal6Nqc7P9eURmK_koJmiyoMa1HLWdFfDLMg&s" style="height:70px;">
+<img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" style="height:70px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt0OU-18slF5XnJ0no2b9gA8twntZG6UngQ&s" style="height:70px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABCjpuMscLQRv3Qn612CuXy7wBF23Xs9AOQ&s" style="height:70px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftPNDHFfXeUwyTShrZM9tZpgisw1-6pJejg&s" style="height:70px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BkaZ2uNwy010FqwUejlvQQV4UZKMX99Vcw&s" style="height:70px;">
+</div>
 <br>
 
 ## GitHub Stats 📈 :
