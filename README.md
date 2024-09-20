@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+<!--     <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/> -->
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prathmesh Rajurkar</h1>
 
@@ -7,11 +7,9 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a 
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
+- 🏢 I am currently Student
+- 🏢 Pursuing btech from GHRIETN
+- 🏡'Lives in **Nagpur India**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
