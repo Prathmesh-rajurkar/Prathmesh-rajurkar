@@ -40,7 +40,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prathmesh-rajurkar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Prathmesh-rajurkar GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh-rajurkar&theme=algolia)](https://github.com/Prathmesh-rajurkar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-rajurkar&theme=algolia)](https://github.com/Prathmesh-rajurkar/github-readme-stats) [![Prathmesh-rajurkar wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prathmesh-rajurkar&theme=algolia)](https://github.com/Prathmesh-rajurkar/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prathmesh-rajurkar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Prathmesh-rajurkar GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh-rajurkar&theme=algolia)](https://github.com/Prathmesh-rajurkar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-rajurkar&theme=algolia)]
 
 <br>
 
