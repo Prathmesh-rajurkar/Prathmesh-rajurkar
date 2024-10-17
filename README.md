@@ -18,7 +18,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "Prathmesh-rajurkar")](https://www.instagram.com/prathmsh.ai) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "Prathmesh-rajurkar")](https://www.linkedin.com/in/prathmesh-rajurkar-3493b91aa/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://x.com/prathmsh1909) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@prathmeshrajurkar199@gmail.com")](prathmeshrajurkar199@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "Prathmesh-rajurkar")](https://www.instagram.com/prathmsh.ai) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "Prathmesh-rajurkar")](https://www.linkedin.com/in/prathmesh-rajurkar-3493b91aa/) [![@prathmsh1909](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@prathmsh1909")](https://x.com/prathmsh1909) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@prathmeshrajurkar199@gmail.com")](prathmeshrajurkar199@gmail.com)
 
 <br>
 
@@ -41,7 +41,14 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prathmesh-rajurkar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Prathmesh-rajurkar GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathmesh-rajurkar&theme=algolia)](https://github.com/Prathmesh-rajurkar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-rajurkar&theme=algolia)]
+
+
+<p align="start"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Prathmesh-rajurkar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" style="max-width:100%;">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-rajurkar&layout=compact&theme=algolia" alt="Streak Stat"/> 
+<!-- 	ts- 8.24 -->
+<!-- 	java- 11.26 -->
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-rajurkar&theme=algolia"/>
+</p>
 
 <br>
 
@@ -53,4 +60,4 @@
 
 <br>
 
-Last edited on: 09/09/2024
+Last edited on: 17/10/2024
