@@ -1,19 +1,19 @@
-# Hi there! 👋 I'm Prathmesh Rajurkar
+# Hi there! I'm Prathmesh Rajurkar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;BTech+Student;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** and **AI Enthusiast** currently pursuing my BTech from GHRIETN, Nagpur. I love building innovative solutions and exploring the intersection of technology and creativity.
 
-- 🎓 **Student** at G.H. Raisoni Institute of Engineering & Technology
-- 📍 **Location**: Nagpur, India
-- 🌱 **Currently Learning**: Advanced AI/ML concepts and modern web technologies
-- 💡 **Interests**: Web Development, Artificial Intelligence, Open Source
+-  **Student** at G.H. Raisoni Institute of Engineering & Technology
+-  **Location**: Nagpur, India
+-  **Currently Learning**: Advanced AI/ML concepts and modern web technologies
+-  **Interests**: Web Development, Artificial Intelligence, Open Source
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** currently pursui
 
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-rajurkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -56,13 +56,13 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** currently pursui
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-rajurkar&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prathmesh-rajurkar&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** currently pursui
 
 </div>
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
