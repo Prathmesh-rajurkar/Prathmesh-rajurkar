@@ -1,17 +1,16 @@
 # Hi there! I'm Prathmesh Rajurkar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;BTech+Student;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;BTech+Student;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** and **AI Enthusiast** currently pursuing my BTech from GHRIETN, Nagpur. I love building innovative solutions and exploring the intersection of technology and creativity.
+I'm a passionate **Full Stack Developer** currently pursuing my BTech from GHRIETN, Nagpur. I love building innovative solutions and exploring the intersection of technology and creativity.
 
 -  **Student** at G.H. Raisoni Institute of Engineering & Technology
 -  **Location**: Nagpur, India
--  **Currently Learning**: Advanced AI/ML concepts and modern web technologies
--  **Interests**: Web Development, Artificial Intelligence, Open Source
+-  **Interests**: Web Development, System Design, Open Source
 
 ## Tech Stack
 
@@ -67,8 +66,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** currently pursui
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-rajurkar-3493b91aa/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prathmsh1909)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prathmsh.ai)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prathmsh199)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshrajurkar199@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://prathmeshrajurkar.tech)
 
